@@ -1,0 +1,50 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>fejka-artificial-potted-plant-with-pot__0614187_PE686812_S5JPG.jpg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\fejka-artificial-potted-plant-with-pot__0614187_PE686812_S5JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>376</ymin>
+			<xmax>380</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>308</ymin>
+			<xmax>868</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>974</xmin>
+			<ymin>500</ymin>
+			<xmax>1374</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

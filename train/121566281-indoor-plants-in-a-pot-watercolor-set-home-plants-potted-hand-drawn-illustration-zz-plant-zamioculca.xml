@@ -1,0 +1,50 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>121566281-indoor-plants-in-a-pot-watercolor-set-home-plants-potted-hand-drawn-illustration-zz-plant-zamioculca.jpg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\121566281-indoor-plants-in-a-pot-watercolor-set-home-plants-potted-hand-drawn-illustration-zz-plant-zamioculca.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>272</ymin>
+			<xmax>561</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>43</ymin>
+			<xmax>946</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>970</xmin>
+			<ymin>349</ymin>
+			<xmax>1295</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>plant5.jpg</filename>
+	<path>/root/Desktop/AI/images/plant5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>28</ymin>
+			<xmax>907</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+</annotation>

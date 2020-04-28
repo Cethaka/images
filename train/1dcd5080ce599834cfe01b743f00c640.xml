@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>1dcd5080ce599834cfe01b743f00c640.png</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\1dcd5080ce599834cfe01b743f00c640.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>649</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>25</ymin>
+			<xmax>648</xmax>
+			<ymax>1137</ymax>
+		</bndbox>
+	</object>
+</annotation>

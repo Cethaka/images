@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>cardamom2020frontg.jpg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\cardamom2020frontg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>754</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>8</ymin>
+			<xmax>754</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

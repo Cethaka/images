@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>DSC_0383-e1569792398721-1161x800.jpg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\DSC_0383-e1569792398721-1161x800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1161</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>15</ymin>
+			<xmax>1160</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>28</ymin>
+			<xmax>702</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

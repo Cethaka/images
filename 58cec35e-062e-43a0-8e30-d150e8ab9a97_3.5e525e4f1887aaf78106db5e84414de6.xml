@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>58cec35e-062e-43a0-8e30-d150e8ab9a97_3.5e525e4f1887aaf78106db5e84414de6.jpeg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\58cec35e-062e-43a0-8e30-d150e8ab9a97_3.5e525e4f1887aaf78106db5e84414de6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4262</width>
+		<height>4262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>18</ymin>
+			<xmax>3678</xmax>
+			<ymax>4243</ymax>
+		</bndbox>
+	</object>
+</annotation>

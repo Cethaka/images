@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>image26.jpeg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\image26.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>2</ymin>
+			<xmax>194</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

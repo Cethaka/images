@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded images</folder>
+	<filename>best-house-plants-indybest.jpg</filename>
+	<path>C:\Users\Gebruiker\Documents\School\Jaar 2\Project 78\Software\Artificial Intelligence\AI\downloaded images\best-house-plants-indybest.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>389</ymin>
+			<xmax>1029</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1181</xmin>
+			<ymin>207</ymin>
+			<xmax>2020</xmax>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+</annotation>
